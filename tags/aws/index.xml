@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on Academic</title>
+    <link>https://rohitgarla07.github.io/tags/aws/</link>
+    <description>Recent content in aws on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 01:38:30 -0400</lastBuildDate>
+    
+	    <atom:link href="https://rohitgarla07.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pill Detect</title>
+      <link>https://rohitgarla07.github.io/project/pill-detect/</link>
+      <pubDate>Sun, 30 Jun 2019 01:38:30 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/project/pill-detect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nutri Meter</title>
+      <link>https://rohitgarla07.github.io/project/nutri-meter/</link>
+      <pubDate>Sun, 30 Jun 2019 01:37:21 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/project/nutri-meter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Academic</title>
+    <link>https://rohitgarla07.github.io/tags/</link>
+    <description>Recent content in Tags on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 01:38:30 -0400</lastBuildDate>
+    
+	    <atom:link href="https://rohitgarla07.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aws</title>
+      <link>https://rohitgarla07.github.io/tags/aws/</link>
+      <pubDate>Sun, 30 Jun 2019 01:38:30 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial-intelligence</title>
+      <link>https://rohitgarla07.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 30 Jun 2019 01:38:11 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-application</title>
+      <link>https://rohitgarla07.github.io/tags/web-application/</link>
+      <pubDate>Sun, 30 Jun 2019 01:36:51 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/tags/web-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data-analysis</title>
+      <link>https://rohitgarla07.github.io/tags/data-analysis/</link>
+      <pubDate>Sun, 30 Jun 2019 01:20:58 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://rohitgarla07.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 30 Jun 2019 01:20:58 -0400</pubDate>
+      
+      <guid>https://rohitgarla07.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
